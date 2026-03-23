@@ -1,21 +1,13 @@
-
----
-
-# Student Grade Management System
-
-```markdown
 # Student Grade Management System
 
 ## Overview
-A command-line Python application that manages student records, calculates GPA, and generates transcripts with persistent storage.
+A Python command-line application for managing student records, calculating GPA, and generating transcripts.
 
 ## Features
 - Add and search students
-- Add/update grades
+- Add and update grades
 - GPA calculation
 - Transcript generation
-- Course statistics
-- Study group generation
 - JSON data persistence
 
 ## Technologies Used
@@ -23,5 +15,15 @@ A command-line Python application that manages student records, calculates GPA, 
 - JSON
 
 ## How to Run
-```bash
 python Student Grade Management System.py
+
+## Screenshots
+
+### Menu
+![Menu](Menu.png)
+
+### Transcript Output
+![Transcript](Generate_Transcript.png)
+
+## Author
+Connor Warming
